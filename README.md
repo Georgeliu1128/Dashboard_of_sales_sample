@@ -2,7 +2,7 @@
 Overview
 This dashboard provides a comprehensive visualization of sales performance data for a business, likely based on a sample dataset (e.g., similar to the Superstore sales dataset). It includes key performance indicators (KPIs) and various charts to analyze sales, quantity, profit, and discounts across categories, sub-categories, states, and time periods. The dashboard is designed for quick insights into regional performance, product profitability, and temporal trends.
 The dashboard appears to be built using Microsoft Power BI, as indicated by the footer branding.
-![Dashborad](Sales.pdf)
+![Dashborad](Sales.png)
 
 Key Metrics
 The top section displays aggregated KPIs:
